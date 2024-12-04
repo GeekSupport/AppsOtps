@@ -18,7 +18,7 @@
     "@mui/icons-material": "^5.14.9",
     "@mui/material": "^5.14.10",
     "copy-text-to-clipboard": "^3.2.0",
-    "crypto-js": "^4.1.1",
+    "crypto-js": "^4.2.0",
     "lottie-react": "^2.4.0",
     "nanoid": "^5.0.1",
     "otpauth": "^9.1.4",
@@ -30,7 +30,7 @@
   },
   "devDependencies": {
     "@twa-dev/types": "github:UselessStudio/twa-types",
-    "@types/crypto-js": "^4.1.2",
+    "@types/crypto-js": "^4.2.2",
     "@types/node": "^20.12.2",
     "@types/react": "^18.2.73",
     "@types/react-dom": "^18.2.23",
